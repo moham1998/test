@@ -1,0 +1,32 @@
+body{
+ margin:0px;
+}
+header{
+ background-color: rgb(18, 142, 173);
+ text-align: center;
+ color:white;
+ padding:40px 0px 40px 0;
+}
+.main{
+ background-color:rgb(226, 236, 238);
+ width:30%;
+ text-align: center;
+ margin: auto;
+ margin-top: 50px;
+}
+form input[type="text"],[type="email"],[type="password"] {
+ width:80%;
+ padding: 7px;
+ margin:5px;
+ border: none;
+}
+form input[type="radio"]{
+ margin-left:10px;
+}
+form button{
+ margin:10px;
+}
+a{
+ text-decoration: none;
+ color:white;
+}
